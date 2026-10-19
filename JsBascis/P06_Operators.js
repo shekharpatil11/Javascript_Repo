@@ -109,7 +109,7 @@ What is javascript Operators.
    console.log(k);
    console.log(l);
    
-<<<<<<< HEAD
+
    console.log("===============Short Hand Operators===============");
 /*
    +=,-=,*=,%=
@@ -220,6 +220,6 @@ age>=18?console.log("Adult"):console.log("minor");
       
       
                                       
-=======
+
    
->>>>>>> c466c10e322424d9d9053239ad6ef5294dcefaec
+
