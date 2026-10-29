@@ -36,7 +36,7 @@ for(let i = 1; i<=10;i++)
 for(let i = 1; i<=10;i++)
     {
         if(i===8){
-            continue;  // exit from loop
+            continue;  // skip the iteration from loop and next step will perform
         }
         else{
             console.log(i);
@@ -44,3 +44,5 @@ for(let i = 1; i<=10;i++)
         }
 
 }
+
+// it only skip the 8 number 
